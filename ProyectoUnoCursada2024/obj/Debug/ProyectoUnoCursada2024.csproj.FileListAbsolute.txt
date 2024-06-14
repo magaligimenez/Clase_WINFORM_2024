@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\bin\Debug\ProyectoUnoCursada2024.exe.config
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\bin\Debug\ProyectoUnoCursada2024.exe
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\bin\Debug\ProyectoUnoCursada2024.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.exe
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\bin\Debug\Clases.dll
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\bin\Debug\Clases.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\ProyectoUnoCursada2024\obj\Debug\ProyectoUnoCursada2024.csproj.CopyComplete
